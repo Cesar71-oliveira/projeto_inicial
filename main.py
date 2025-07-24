@@ -1,7 +1,7 @@
 print("Jornada de dados")
 
 # Variáveis
-idade = 54
+idade = 555
 nome = "Cesar"
 curso = "Python"
 
@@ -18,6 +18,8 @@ lista = [1,2,3,4,5]
 # Métodos
 lista_invertida = lista.reverse()
 
+# Testando Git Vscode
 
+print("Hi")
 
 
