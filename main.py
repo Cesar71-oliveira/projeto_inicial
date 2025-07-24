@@ -1,5 +1,9 @@
 print("Jornada de dados")
 
+print("Testando Git Vscode")
+
+print("Hi")
+
 print("Tá funcionando git push pro gmail")
 
 # Variáveis
@@ -19,9 +23,4 @@ lista = [1,2,3,4,5]
 
 # Métodos
 lista_invertida = lista.reverse()
-
-# Testando Git Vscode
-
-print("Hi")
-
 
