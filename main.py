@@ -1,5 +1,7 @@
 print("Jornada de dados")
 
+print("Tá funcionando git push pro gmail")
+
 # Variáveis
 idade = 555
 nome = "Cesar"
